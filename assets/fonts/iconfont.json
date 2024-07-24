@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "109647011",
+      "name": "注销",
+      "font_class": "zhuxiao",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "108762090",
+      "name": "pagesi",
+      "font_class": "gggg-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
